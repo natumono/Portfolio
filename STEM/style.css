@@ -1,0 +1,16 @@
+/* styles for layout */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  width: 550px;
+}
+
+/* styles for colors and fonts */
+.answer {
+  color: red;
+  font-weight: bold;
+}
